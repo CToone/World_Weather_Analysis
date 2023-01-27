@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 # Project Overview
-To practice  analysis, visualization, and statistical skills by retrieving and analyzing weather data for a hypothetical travel company, PlanMyTrip. The location chosen for part 3 of this project was Argentina.
+To practice  analysis, visualization, and statistical skills by retrieving and analyzing weather data for a hypothetical travel company, PlanMyTrip. The location chosen for part 3 of this project was Australia.
 
 # Resources
 Data Source: https://openweathermap.org/api 
